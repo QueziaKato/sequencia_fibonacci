@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+ 
+.fibonacci-container {
+    text-align: center;
+    padding: 20px;
+}
+ 
+h1 {
+    color: #007bff;
+}
+ 
+.fibonacci-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+ 
+.fibonacci-table th, .fibonacci-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+ 
+.fibonacci-table th {
+    background-color: #f2f2f2;
+}
